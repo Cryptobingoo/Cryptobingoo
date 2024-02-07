@@ -5,7 +5,7 @@
 - 📫 How to reach me : on X @cryptobingoo
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love money :))
-
+im new at cryptocurrency , but i will be very good at !
 <!---
 Cryptobingoo/Cryptobingoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
