@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love money :))
 im new at cryptocurrency , but i will be very good at !
+Be new for new life
 <!---
 Cryptobingoo/Cryptobingoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
