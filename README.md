@@ -10,6 +10,8 @@ Be new for new life
 And now i start learn programing !
 Lets Gooo !
 
+!!!!!
+
 Print ("Love Crypto")
 <!---
 Cryptobingoo/Cryptobingoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
