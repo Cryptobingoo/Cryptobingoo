@@ -10,6 +10,8 @@ Be new for new life
 And now i start learn programing !
 Lets Gooo !
 
+Lets learn python
+
 !!!!!
 
 Print ("Love Crypto")
